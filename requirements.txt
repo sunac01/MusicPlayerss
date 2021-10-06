@@ -1,6 +1,6 @@
 Pyrogram
 TgCrypto
-ffmpeg
+ffmpeg-python
 psutil
 pytgcalls
 wheel
